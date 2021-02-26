@@ -1,0 +1,7 @@
+{
+    "require": {
+        "google/cloud-speech": "^0.17.0",
+        "qaamgo/onlineconvert-api-sdk": "^2.8",
+        "google/cloud-storage": "^1.8"
+    }
+}
